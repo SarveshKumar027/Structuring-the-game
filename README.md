@@ -1,1 +1,2 @@
-# Structuring-the-game
+# synchronousBallMovement
+Ball moving synchronously
